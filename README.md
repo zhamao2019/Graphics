@@ -2,12 +2,17 @@
 
 ## Adobe Illustrator
 ### iOS icon
-![AI-ios icon](https://github.com/zhamao2019/Graphics/blob/master/AI-ios%20icon%20design.pdf)
+![AI-ios icon PDF](https://github.com/zhamao2019/Graphics/blob/master/AI-ios%20icon%20design.pdf)
 
+![AI-ios icon](https://github.com/zhamao2019/Graphics/blob/master/AI-ios%20icon%20design_Page_4.png)
+
+![AI-ios icon-01](https://github.com/zhamao2019/Graphics/blob/master/AI-ios%20icon%20design_Page_1.png)
+
+
+![AI-ios icon-02](https://github.com/zhamao2019/Graphics/blob/master/AI-ios%20icon%20design_Page_2.png)![AI-ios icon-03](https://github.com/zhamao2019/Graphics/blob/master/AI-ios%20icon%20design_Page_3.png)
 
 ### Typography
-![AI-Typography](https://github.com/zhamao2019/Graphics/blob/master/AI-typography.pdf)
-
+![Typography](https://github.com/zhamao2019/Graphics/blob/master/AI-typography.png)
 
 ## Adobe Photoshop
 ### Photo composition
